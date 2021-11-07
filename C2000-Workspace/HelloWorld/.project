@@ -24,4 +24,26 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>F2806x_GlobalVariableDefs.c</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/28069Common/c/F2806x_GlobalVariableDefs.c</locationURI>
+		</link>
+		<link>
+			<name>F2806x_usDelay.asm</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/28069Common/asm/F2806x_usDelay.asm</locationURI>
+		</link>
+		<link>
+			<name>clocks.c</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/C2000%20Libraries/Clock%20Library/clocks.c</locationURI>
+		</link>
+		<link>
+			<name>gpio.c</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/C2000%20Libraries/GPIO%20Library/gpio.c</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
